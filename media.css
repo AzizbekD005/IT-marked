@@ -1,0 +1,6 @@
+/* for mobile devices */
+@media (max-width: 767px) {
+    .box{
+        width: 100%;
+    }
+}
