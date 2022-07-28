@@ -28,6 +28,11 @@
 .sing:hover{
     background-color: rgb(149, 230, 27);
 }
-.roll:hover{
-    box-shadow: 20;
+.card1:hover{
+    box-shadow: 0px 0px 10px 10px;
+    color: rgba(62, 62, 62, 0.785);
+}
+.card:hover{
+    box-shadow: 0px 0px 10px 10px;
+    color: rgba(62, 62, 62, 0.785);
 }
